@@ -1,0 +1,34 @@
+body {
+  background-color: plum;
+  border: 35px solid powderblue;
+  padding-left: 220px;
+  margin: 50px;
+  margin-bottom: 30px;
+  font-family: "Permanent Marker", cursive;
+}
+
+.article {
+  right: 100px;
+  bottom: 50px;
+  color: deeppink;
+  padding-left: 50px;
+}
+
+.article-2 {
+  color: deeppink;
+}
+.smth {
+  color: darkcyan;
+}
+.li-1 {
+  color: rebeccapurple;
+}
+.li-2 {
+  color: purple;
+}
+.ending {
+  color: darkcyan;
+}
+ul {
+  color: deeppink;
+}
